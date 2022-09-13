@@ -1,6 +1,6 @@
 # Case Study: Afterpay
 ## Overview
-Afterpay is a global Fintech provider based in Australia. They provide a buy now, pay later (BNPL) service to consumers. They were founded in 2014 in Sydney, by Nicholas Molnar and Anthony Eisen (ABC2022).
+Afterpay is a global Fintech provider based in Australia. They provide a buy now, pay later (BNPL) service to consumers. They were founded in 2014 in Sydney, by Nicholas Molnar and Anthony Eisen (ABC 2022).
 
 In his early twenties, Molnar had his first experiences in entrepreneurship through running an eBay jewellery business. In fact, he was the site’s largest seller (NBR 2021). He was able to identify that his target audience, mostly women in their twenties, were averse to credit cards. Meanwhile, the growth of e-commerce was accelerating, traditional retailers had phased out lay-by, and interest rates on credit cards were high (NBR 2021). Molnar identified an opportunity for a zero-interest scheme, tackling both a customer demand, and a business goal to boost sales at minimal cost. Afterpay’s first retail customer was a fashion brand, Princess Polly, who immediately saw success with average basket sizes increasing by $44, and revenues increasing 15% (Smartcompany 2021).
 
